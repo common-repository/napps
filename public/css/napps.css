@@ -1,0 +1,83 @@
+.napps-font {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+}
+.flex-col {
+    flex-direction: column;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.h-full {
+    height: 100%;
+}
+
+.min-h-screen {
+    min-height: 100vh;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.go-dashboard-button {
+    width: 150px;
+}
+
+.napps-button {
+    background-color: #35D2CF;
+    box-shadow: 0px 0px 30px 15px rgba(53, 210, 207, 0.15);
+    border-radius: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10px 0px;
+    text-decoration: none;
+    color:white;
+    margin-top: 20px;
+}
+
+.get-started-button {
+    width: 110px;
+}
+
+.started-outter {
+    max-width: 500px;
+    padding: 30px 0px;
+}
+
+.font-medium {
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 600px) {
+    .md-flex-col {
+        flex-direction: column !important;
+    }
+
+    .md-top-2 {
+        margin-top: 20px;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    #wpcontent {
+        padding-left: 0px !important
+    }
+}

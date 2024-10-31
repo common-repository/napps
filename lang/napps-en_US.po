@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NAPPS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-07 13:50+0000\n"
+"PO-Revision-Date: 2023-06-21 15:59+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: napps"
+
+#: src/Modules/Smartbanner/SmartbannerModule.php:129
+msgid " - In Google Play"
+msgstr " - In Google Play"
+
+#: src/Modules/Smartbanner/SmartbannerModule.php:128
+msgid " - On the App Store"
+msgstr " - On the App Store"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart-frontend.php:140
+msgid " in order to be able to ship to your destination"
+msgstr " in order to be able to ship to your destination"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart-frontend.php:135
+msgid " items in your cart in order to be able to ship to your destination"
+msgstr " items in your cart in order to be able to ship to your destination"
+
+#: src/Modules/Smartbanner/SmartbannerModule.php:131
+msgid "Close"
+msgstr "Close"
+
+#: src/Services/AuthService.php:107
+msgid "Credential is valid"
+msgstr "Credential is valid"
+
+#: src/Controllers/AuthController.php:75
+msgid "Email provided does not exist"
+msgstr "Email provided does not exist"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:46
+msgid "Flat rate Cart"
+msgstr "Flat rate Cart"
+
+#: src/Modules/Smartbanner/SmartbannerModule.php:127
+msgid "FREE"
+msgstr "FREE"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:110
+msgid "Friday"
+msgstr "Friday"
+
+#: views/admin/getting-started.php:23
+msgid "Getting started button"
+msgstr "Start"
+
+#: views/admin/getting-started.php:16
+msgid "Getting started description"
+msgstr ""
+"Napps is a platform that allows the creation of native mobile apps for e-"
+"commerce stores, for a low price, in record time and without the need for "
+"programming."
+
+#: views/admin/getting-started.php:15
+msgid "Getting started title"
+msgstr "Create your mobile app"
+
+#: views/admin/go-dashboard.php:19
+msgid "Go Dashboard Button"
+msgstr "Go to dashboard"
+
+#: views/admin/go-dashboard.php:17
+msgid "Go Dashboard Description"
+msgstr ""
+"Napps is a platform that allows the creation of native mobile apps for e-"
+"commerce stores, for a low price, in record time and without the need for "
+"programming."
+
+#: views/admin/go-dashboard.php:16
+msgid "Go Dashboard Title"
+msgstr "Create your mobile app"
+
+#. Author URI of the plugin
+msgid "https://napps.io"
+msgstr "https://napps.io"
+
+#: src/Services/AuthService.php:71
+msgid "JWT is not configurated properly."
+msgstr "JWT is not configurated properly."
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:47
+msgid "Lets you charge a fixed rate for shipping with cart requirements"
+msgstr "Lets you charge a fixed rate for shipping with cart requirements"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:90
+msgid "Minimum cart items / amount"
+msgstr "Minimum cart items / amount"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:106
+msgid "Monday"
+msgstr "Monday"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:83
+msgid "N/A"
+msgstr "N/A"
+
+#. Author of the plugin
+#: src/Modules/Admin/Settings.php:31
+msgid "NAPPS"
+msgstr "NAPPS"
+
+#. Name of the plugin
+msgid "NAPPS - Mobile app builder"
+msgstr "NAPPS - Mobile app builder"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:105
+msgid "Not defined"
+msgstr "Not defined"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:84
+msgid "Number of items in cart"
+msgstr "Number of items in cart"
+
+#: src/Modules/Woocommerce/Admin.php:27
+msgid "Order from mobile app"
+msgstr "Order from mobile app"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:118
+msgid "Order x days before shipping day"
+msgstr "Order x days before shipping day"
+
+#. Description of the plugin
+msgid ""
+"Plugin to complement the napps E-commerce solution. More on https://napps.io"
+msgstr ""
+"Plugin to complement the napps E-commerce solution. More on https://napps.io"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:78
+msgid "Requires"
+msgstr "Requires"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:111
+msgid "Saturday"
+msgstr "Saturday"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:102
+msgid ""
+"Select the day of the week that you ship your orders, so we can inform the "
+"customer when the order is expected to ship"
+msgstr ""
+"Select the day of the week that you ship your orders, so we can inform the "
+"customer when the order is expected to ship"
+
+#: src/Modules/Admin/Settings.php:18
+msgid "Settings"
+msgstr "Settings"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:99
+msgid "Shipping day of the week"
+msgstr "Shipping day of the week"
+
+#: src/Controllers/AuthController.php:94
+msgid "Something went wrong"
+msgstr "Something went wrong"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:112
+msgid "Sunday"
+msgstr "Sunday"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:74
+msgid ""
+"This is display on checkout page for the client, use %day% (current day) or "
+"%weekday% (ex: Saturday) to display shipping day"
+msgstr ""
+"This is display on checkout page for the client, use %day% (current day) or "
+"%weekday% (ex: Saturday) to display shipping day"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:109
+msgid "Thursday"
+msgstr "Thursday"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:85
+msgid "Total amount (€) in cart"
+msgstr "Total amount (€) in cart"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:107
+msgid "Tuesday"
+msgstr "Tuesday"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:93
+msgid ""
+"Users need to have x (amount of items in cart / amount in cart) to use this "
+"shipping method"
+msgstr ""
+"Users need to have x (amount of items in cart / amount in cart) to use this "
+"shipping method"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:121
+msgid ""
+"Users need to order x number of days before shipping day in order to recieve "
+"the order this week, otherwise the order will be ship on the next week"
+msgstr ""
+"Users need to order x number of days before shipping day in order to recieve "
+"the order this week, otherwise the order will be ship on the next week"
+
+#: src/Modules/Smartbanner/SmartbannerModule.php:130
+msgid "VIEW"
+msgstr "VIEW"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:108
+msgid "Wednesday"
+msgstr "Wednesday"
+
+#: src/Controllers/AuthController.php:62
+msgid "You must provide a valid email"
+msgstr "You must provide a valid email"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart-frontend.php:135
+msgid "You need at least "
+msgstr "You need at least "
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart-frontend.php:140
+msgid "Your cart sub-total must be at least "
+msgstr "Your cart sub-total must be at least "

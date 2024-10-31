@@ -1,0 +1,22 @@
+{
+    "name": "napps/wordpress",
+    "description": "NAPPS wordpress plugin",
+    "type": "wordpress-plugin",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "napps",
+            "email": "info@napps.io"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "firebase/php-jwt": "^5.5"
+    },
+    "autoload": {
+        "psr-4": { "NAPPS\\": "src" },
+        "files": [
+            "src/Utils/helpers.php"
+        ]
+    }
+}

@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NAPPS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-07 13:50+0000\n"
+"PO-Revision-Date: 2023-06-21 16:05+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: napps"
+
+#: src/Modules/Smartbanner/SmartbannerModule.php:129
+msgid " - In Google Play"
+msgstr " - Na Play Store"
+
+#: src/Modules/Smartbanner/SmartbannerModule.php:128
+msgid " - On the App Store"
+msgstr " - Na App Store"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart-frontend.php:140
+msgid " in order to be able to ship to your destination"
+msgstr " para poder enviar para o seu destino"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart-frontend.php:135
+msgid " items in your cart in order to be able to ship to your destination"
+msgstr " itens para poderes ter mais opções de envio."
+
+#: src/Modules/Smartbanner/SmartbannerModule.php:131
+msgid "Close"
+msgstr "Fechar"
+
+#: src/Services/AuthService.php:107
+msgid "Credential is valid"
+msgstr "Credenciais válidas"
+
+#: src/Controllers/AuthController.php:75
+msgid "Email provided does not exist"
+msgstr "O email não existe"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:46
+msgid "Flat rate Cart"
+msgstr "Taxa fixa carrinho"
+
+#: src/Modules/Smartbanner/SmartbannerModule.php:127
+msgid "FREE"
+msgstr "Grátis"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:110
+msgid "Friday"
+msgstr "Sexta-feira"
+
+#: views/admin/getting-started.php:23
+msgid "Getting started button"
+msgstr "Iniciar"
+
+#: views/admin/getting-started.php:16
+msgid "Getting started description"
+msgstr ""
+"A Napps é uma plataforma que permite a criação de mobile apps nativa para "
+"lojas e-commerce, por um baixo preço, em tempo recorde e sem necessidade de "
+"programação."
+
+#: views/admin/getting-started.php:15
+msgid "Getting started title"
+msgstr "Cria a tua mobile app"
+
+#: views/admin/go-dashboard.php:19
+msgid "Go Dashboard Button"
+msgstr "Dashboard"
+
+#: views/admin/go-dashboard.php:17
+msgid "Go Dashboard Description"
+msgstr ""
+"A Napps é uma plataforma que permite a criação de mobile apps nativa para "
+"lojas e-commerce, por um baixo preço, em tempo recorde e sem necessidade de "
+"programação."
+
+#: views/admin/go-dashboard.php:16
+msgid "Go Dashboard Title"
+msgstr "Cria a tua mobile app"
+
+#. Author URI of the plugin
+msgid "https://napps.io"
+msgstr "https://napps.io"
+
+#: src/Services/AuthService.php:71
+msgid "JWT is not configurated properly."
+msgstr "JWT não está configurado."
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:47
+msgid "Lets you charge a fixed rate for shipping with cart requirements"
+msgstr "Permite cobrar uma taxa fixa para envios com requisitos do carrinho"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:90
+msgid "Minimum cart items / amount"
+msgstr "Itens/valor mínimo do carrinho"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:106
+msgid "Monday"
+msgstr "Segunda-feira"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:83
+msgid "N/A"
+msgstr "N/A"
+
+#. Author of the plugin
+#: src/Modules/Admin/Settings.php:31
+msgid "NAPPS"
+msgstr "NAPPS"
+
+#. Name of the plugin
+msgid "NAPPS - Mobile app builder"
+msgstr "NAPPS - Mobile app builder"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:105
+msgid "Not defined"
+msgstr "Não definido"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:84
+msgid "Number of items in cart"
+msgstr "Número de itens no carrinho"
+
+#: src/Modules/Woocommerce/Admin.php:27
+msgid "Order from mobile app"
+msgstr "Encomenda aplicação móvel"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:118
+msgid "Order x days before shipping day"
+msgstr "Encomendar x dias antes do dia de envio"
+
+#. Description of the plugin
+msgid ""
+"Plugin to complement the napps E-commerce solution. More on https://napps.io"
+msgstr ""
+"Plugin para complementar a solução napps e-commerce. Mais em https://napps.io"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:78
+msgid "Requires"
+msgstr "Requer"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:111
+msgid "Saturday"
+msgstr "Sábado"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:102
+msgid ""
+"Select the day of the week that you ship your orders, so we can inform the "
+"customer when the order is expected to ship"
+msgstr ""
+"Selecione o dia da semana em que você envia os seus pedidos, para que "
+"possamos informar o cliente quando o pedido é previsto ser enviado"
+
+#: src/Modules/Admin/Settings.php:18
+msgid "Settings"
+msgstr "Opções"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:99
+msgid "Shipping day of the week"
+msgstr "Dia de envio da semana"
+
+#: src/Controllers/AuthController.php:94
+msgid "Something went wrong"
+msgstr "Algo correu mal"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:112
+msgid "Sunday"
+msgstr "Domingo"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:74
+msgid ""
+"This is display on checkout page for the client, use %day% (current day) or "
+"%weekday% (ex: Saturday) to display shipping day"
+msgstr ""
+"Isso é exibido na página de checkout para o cliente, use %day% (dia atual) "
+"ou %weekday% (ex: sábado) para exibir o dia de envio"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:109
+msgid "Thursday"
+msgstr "Quinta-feira"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:85
+msgid "Total amount (€) in cart"
+msgstr "Valor total (€) no carrinho"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:107
+msgid "Tuesday"
+msgstr "Terça-feira"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:93
+msgid ""
+"Users need to have x (amount of items in cart / amount in cart) to use this "
+"shipping method"
+msgstr ""
+"Os clientes precisam ter x (quantidade de itens no carrinho / valor total do "
+"carrinho) para usar este método de envio"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:121
+msgid ""
+"Users need to order x number of days before shipping day in order to recieve "
+"the order this week, otherwise the order will be ship on the next week"
+msgstr ""
+"Os clientes precisam fazer o pedido x número de dias antes do dia de envio "
+"para receber o pedido esta semana, caso contrário, o pedido será enviado na "
+"próxima semana"
+
+#: src/Modules/Smartbanner/SmartbannerModule.php:130
+msgid "VIEW"
+msgstr "Ver"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart.php:108
+msgid "Wednesday"
+msgstr "Quarta-feira"
+
+#: src/Controllers/AuthController.php:62
+msgid "You must provide a valid email"
+msgstr "Você deve inserir um e-mail valido"
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart-frontend.php:135
+msgid "You need at least "
+msgstr "O teu carrinho necessita de pelo menos "
+
+#: src/Modules/ShippingRateCart/shipping-rate-cart-frontend.php:140
+msgid "Your cart sub-total must be at least "
+msgstr "O subtotal do seu carrinho deve ser pelo menos "
